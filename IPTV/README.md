@@ -1,2 +1,2 @@
-iptv
-
+Internet protocol television
+In past people needed different devices and channels to get access to different services. Unlike past by help of internet protocol television users can have access to resources just with one device and channel. This service is based on IP network so in order to use it you need to have access to the internet so that you can enjoy variety of internet based TV and radio programs along with access to multimedia archives. This service is available for mobile phones,setup-box and even smart TVs due to IPTV application.

@@ -1,2 +1,2 @@
-AOD
-
+Audio on demand
+This service is produced in order to develop online and offline audio playable services so that users can have access to their favorite audio contents wherever they are. By using this service users can download their favorite audio contents so that next time they won't have to use internet traffic to listen to them again.this service is available for web based version as well as android,ios and setup box versions.
